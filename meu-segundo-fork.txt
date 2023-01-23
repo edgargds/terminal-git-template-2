@@ -1,0 +1,5 @@
+Esse é meu segundo fork aqui na Labenu!
+
+Agora eu já sei que FORKAR um repositório significa copiar esse repositório para o MEU Github.
+
+Também devo clonar esse repositório (terminal-git-template-2) para a minha máquina e realizar o exercício de fixação da aula!
